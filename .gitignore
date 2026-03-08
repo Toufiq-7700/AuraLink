@@ -1,0 +1,22 @@
+# Node
+node_modules/
+build/
+dist/
+
+# Environment
+.env
+.env.local
+
+# PHP
+vendor/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
